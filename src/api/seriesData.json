@@ -1,0 +1,23 @@
+[
+{
+    "name": "Stranger Things",
+    "id": "stranger-things",
+    "img_url": "http://localhost:3000/images/stranger-things.jpg",
+    "rating": "TBD",
+    "description": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to a child's disappearance, which begins to tear at the fabric of an otherwise-peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that more is going on than meets the eye.",
+    "cast": ["Millie Bobby Brown", "Finn Wolfhard"],
+    "genre": ["Horror", "Suspense", "Science Fiction"],
+    "imdb_url": "https://www.imdb.com/title/tt4574334/"
+},
+
+{
+    "name": "The Witcher",
+    "id": "the-witcher",
+    "img_url": "http://localhost:3000/images/the-witcher-netflix.webp",
+    "rating": "TBD",
+    "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+    "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+    "genre": ["Fantasy", "Drama", "Action", "Adventure"],
+    "imdb_url": "https://www.imdb.com/title/tt5180504/"
+}
+]
