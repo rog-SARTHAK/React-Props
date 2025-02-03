@@ -2,22 +2,12 @@ import React from "react";
 
 import './App.css';
 
-import  NetflixSeries, { Footer, Header } from "./components/NetflixSeries";
+import  NetflixSeries from "./components/NetflixSeries";
 //default export doesnt need {}
 //only named export requires {}
 
 function App() {
-  return (
-    
-    <React.Fragment>
-
-    <Header />
-    <NetflixSeries />
-    <Footer />
-
-    </React.Fragment>
-    
-  );
+  return <NetflixSeries />;
 };
 
 export default App;
